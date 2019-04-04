@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="1363px" viewBox="0 0 375 1363" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 6 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-4.6716543%" y1="-4.80188138%" x2="106.022295%" y2="105.897435%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="14.6917131%"></stop>
+            <stop stop-color="#FFFFFF" offset="54.1203825%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.373103487" offset="90.3065539%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="-2.7694192%" x2="46.4858323%" y2="98.3932438%" id="linearGradient-2">
+            <stop stop-color="#FEDF6E" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFDF6D" offset="38.4559215%"></stop>
+            <stop stop-color="#FFDF6D" offset="54.1203825%"></stop>
+            <stop stop-color="#FFDF6D" offset="90.3065539%"></stop>
+            <stop stop-color="#FFDF6D" stop-opacity="0.12743433" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard-6-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="timeline" transform="translate(31.000000, 103.000000)" stroke-linecap="square" stroke-width="9">
+            <path d="M2.22850873,68.1572118 L2.22850873,1169.53902" id="Line-4" stroke="url(#linearGradient-1)" opacity="0.400000006"></path>
+            <path d="M2.22850873,0.5 L2.22850873,587.5" id="Line-4" stroke="url(#linearGradient-2)"></path>
+        </g>
+        <circle id="Oval-7" fill="#FFFFFF" cx="34" cy="637" r="16"></circle>
+    </g>
+</svg>

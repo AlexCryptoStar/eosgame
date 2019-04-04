@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="148px" height="110px" viewBox="0 0 148 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 26</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <pattern id="pattern-1" width="14.6446078" height="14.6446078" x="-15.6446078" y="-7.64460784" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-2" transform="scale(0.292892157,0.292892157)"></use>
+        </pattern>
+        <image id="image-2" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAEDWlDQ1BJQ0MgUHJvZmlsZQAAOI2NVV1oHFUUPrtzZyMkzlNsNIV0qD8NJQ2TVjShtLp/3d02bpZJNtoi6GT27s6Yyc44M7v9oU9FUHwx6psUxL+3gCAo9Q/bPrQvlQol2tQgKD60+INQ6Ium65k7M5lpurHeZe58853vnnvuuWfvBei5qliWkRQBFpquLRcy4nOHj4g9K5CEh6AXBqFXUR0rXalMAjZPC3e1W99Dwntf2dXd/p+tt0YdFSBxH2Kz5qgLiI8B8KdVy3YBevqRHz/qWh72Yui3MUDEL3q44WPXw3M+fo1pZuQs4tOIBVVTaoiXEI/MxfhGDPsxsNZfoE1q66ro5aJim3XdoLFw72H+n23BaIXzbcOnz5mfPoTvYVz7KzUl5+FRxEuqkp9G/Ajia219thzg25abkRE/BpDc3pqvphHvRFys2weqvp+krbWKIX7nhDbzLOItiM8358pTwdirqpPFnMF2xLc1WvLyOwTAibpbmvHHcvttU57y5+XqNZrLe3lE/Pq8eUj2fXKfOe3pfOjzhJYtB/yll5SDFcSDiH+hRkH25+L+sdxKEAMZahrlSX8ukqMOWy/jXW2m6M9LDBc31B9LFuv6gVKg/0Szi3KAr1kGq1GMjU/aLbnq6/lRxc4XfJ98hTargX++DbMJBSiYMIe9Ck1YAxFkKEAG3xbYaKmDDgYyFK0UGYpfoWYXG+fAPPI6tJnNwb7ClP7IyF+D+bjOtCpkhz6CFrIa/I6sFtNl8auFXGMTP34sNwI/JhkgEtmDz14ySfaRcTIBInmKPE32kxyyE2Tv+thKbEVePDfW/byMM1Kmm0XdObS7oGD/MypMXFPXrCwOtoYjyyn7BV29/MZfsVzpLDdRtuIZnbpXzvlf+ev8MvYr/Gqk4H/kV/G3csdazLuyTMPsbFhzd1UabQbjFvDRmcWJxR3zcfHkVw9GfpbJmeev9F08WW8uDkaslwX6avlWGU6NRKz0g/SHtCy9J30o/ca9zX3Kfc19zn3BXQKRO8ud477hLnAfc1/G9mrzGlrfexZ5GLdn6ZZrrEohI2wVHhZywjbhUWEy8icMCGNCUdiBlq3r+xafL549HQ5jH+an+1y+LlYBifuxAvRN/lVVVOlwlCkdVm9NOL5BE4wkQ2SMlDZU97hX86EilU/lUmkQUztTE6mx1EEPh7OmdqBtAvv8HdWpbrJS6tJj3n0CWdM6busNzRV3S9KTYhqvNiqWmuroiKgYhshMjmhTh9ptWhsF7970j/SbMrsPE1suR5z7DMC+P/Hs+y7ijrQAlhyAgccjbhjPygfeBTjzhNqy28EdkUh8C+DU9+z2v/oyeH791OncxHOs5y2AtTc7nb/f73TWPkD/qwBnjX8BoJ98VVBg/m8AAADKSURBVGgF7ZgxCsQwDATjvMb/f41/k1QGF9oikWBBzDU5lpwUzejAZFwfPnPOZ9++1hr7e+X1b4+78iGctRjEST/qjZGIijPDiJN+1BsjERVn1sbIOI8ETqLZ3m2MtBnk0wn2XENOv9k/g/h9m9ViEGHYFmPEhl40xogAY4sxYkMvGmNEgLHFGLGhF40xIsDYYozY0IvGGBFgbHEbI7ygs+2QaNxntcSAYcwLuhBLbdhmtRikdjHy1TCSZ1hbASO1PPPVMJJnWFvhBRthG07MMgb9AAAAAElFTkSuQmCC"></image>
+        <polygon id="path-3" points="0.186982984 0.324125 20.733217 0.324125 20.733217 20.503956 0.186982984 20.503956"></polygon>
+        <polygon id="path-5" points="0 0.345461538 7.32773333 0.345461538 7.32773333 16.9608462 0 16.9608462"></polygon>
+        <polygon id="path-7" points="0.371179438 0.532571429 11.9417333 0.532571429 11.9417333 10 0.371179438 10"></polygon>
+        <polygon id="path-9" points="0.2313 0.0835714286 12.3705743 0.0835714286 12.3705743 9 0.2313 9"></polygon>
+        <polygon id="path-11" points="0.87766 0.0816296278 6.9986 0.0816296278 6.9986 7.73571429 0.87766 7.73571429"></polygon>
+    </defs>
+    <g id="New" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PopChest-05.29" transform="translate(-589.000000, -1893.000000)">
+            <g id="4_for_creators" transform="translate(61.000000, 1803.000000)">
+                <g id="more_$_in_your_pocket" transform="translate(396.000000, 87.000000)">
+                    <g id="Group-26" transform="translate(132.000000, 0.000000)">
+                        <g id="bg_pattern" transform="translate(49.000000, 0.000000)" fill="url(#pattern-1)">
+                            <path d="M46.2949351,102 C58.1873365,102 55.1553402,74.2565732 64.1175346,67.8243682 C82.4873431,54.6402785 88.1361203,61.2874127 97.5981722,50.2207881 C107.060224,39.1541635 103.051922,21.47272 93.5898701,12.8128308 C85.1798223,5.1157601 58.586313,7.28055697 46.2949351,7.28055697 C20.1746637,7.28055697 -1,28.4842265 -1,54.6402785 C-1,80.7963304 20.1746637,102 46.2949351,102 Z" id="Oval-11-Copy-5" transform="translate(51.000000, 54.500000) rotate(-453.000000) translate(-51.000000, -54.500000) "></path>
+                        </g>
+                        <g id="pig" transform="translate(0.000000, 18.000000)">
+                            <path d="M56.9667217,86 L37.0332783,86 C21.6144302,86 9,73.3988771 9,58.0006806 C9,42.5997618 21.6144302,30 37.0332783,30 L56.9667217,30 C72.3842071,30 85,42.5997618 85,58.0006806 C85,73.3988771 72.3842071,86 56.9667217,86" id="Fill-1" fill="#FF7C7B"></path>
+                            <path d="M26,50 C26,51.1053333 25.1053333,52 24,52 C22.8946667,52 22,51.1053333 22,50 C22,48.896 22.8946667,48 24,48 C25.1053333,48 26,48.896 26,50" id="Fill-3" fill="#000000"></path>
+                            <path d="M26,32.1436054 C26,32.1436054 32.6900598,23.063854 39.6284076,25.377385 C43.7436792,26.7504005 44.3472523,35.4635568 40.0124996,40" id="Fill-5" fill="#F05151"></path>
+                            <g id="Group-9" transform="translate(51.000000, 0.000000)">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="Clip-8"></g>
+                                <path d="M19.6903,14.8390375 C17.2025,19.8454125 11.0537,21.9230375 5.9549,19.4796625 C0.8575,17.0362875 -1.2579,10.9959125 1.2299,5.9895375 C3.7177,0.9831625 9.8679,-1.0958375 14.9653,1.3475375 C20.0627,3.7922875 22.1781,9.8312875 19.6903,14.8390375" id="Fill-7" fill="#030303" mask="url(#mask-4)"></path>
+                            </g>
+                            <path d="M62.238726,4 L63.3446067,4.32184535 L62.9872027,5.79496128 C63.7939517,6.13949177 64.3637263,6.64140037 64.6978214,7.30210492 C65.0332115,7.96422729 65.088894,8.75253572 64.8674588,9.66703021 L63.5025897,9.27004035 C63.6553929,8.63769222 63.6113648,8.08899553 63.3705056,7.62111463 C63.1283514,7.15323372 62.7256243,6.83564184 62.1623244,6.67259243 C61.5731257,6.5010361 61.0901122,6.5081252 60.7106941,6.68960628 C60.332571,6.873923 60.0839421,7.21420002 59.9648074,7.70476606 C59.8534423,8.1613044 59.9298439,8.57247246 60.1927172,8.93685244 C60.4568854,9.30406806 60.938604,9.7067292 61.6391677,10.1490893 C62.3397315,10.5886138 62.8693629,11.0040353 63.2280619,11.3939361 C63.5867609,11.782419 63.8237354,12.1822445 63.9376903,12.5934126 C64.0529401,13.0045807 64.0529401,13.445523 63.9376903,13.9176573 C63.7538085,14.6719381 63.3562612,15.2050387 62.7424586,15.519795 C62.1286559,15.8331334 61.3581653,15.9011888 60.4322815,15.7225434 L60.1227903,17 L59.0246793,16.6795725 L59.3341705,15.4021158 C58.4328906,15.0575853 57.7841246,14.5514233 57.3865773,13.8850474 C56.98903,13.2172538 56.898384,12.4417057 57.1133445,11.5584033 L58.4859833,11.9582288 C58.33577,12.5792344 58.4005171,13.1094994 58.6802246,13.5476061 C58.9599322,13.9885484 59.4312911,14.3047224 60.0943016,14.4975461 C60.7430677,14.6861163 61.2856485,14.6946232 61.7259289,14.521649 C62.1649143,14.3486749 62.4433269,14.0183226 62.5624616,13.53201 C62.6608772,13.1222598 62.5857705,12.7295234 62.3345517,12.3552187 C62.0846279,11.9809139 61.6080891,11.5697459 60.9062304,11.1217145 C59.9233692,10.5262297 59.2461144,9.9236558 58.8770558,9.31682844 C58.5092922,8.71000109 58.4108766,8.0464609 58.5856938,7.32904352 C58.7631009,6.59744792 59.1451089,6.06576508 59.7317178,5.7354128" id="Fill-10" fill="#FFFFFF"></path>
+                            <g id="Group-14" transform="translate(0.000000, 50.000000)">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <g id="Clip-13"></g>
+                                <path d="M5.98106667,8.20869231 C5.98106667,5.47961538 6.37573333,2.84884615 7.0744,0.345461538 L6.22506667,0.345461538 C2.80106667,0.345461538 -0.000266666667,3.25453846 -0.000266666667,6.80884615 L-0.000266666667,10.4974615 C-0.000266666667,14.0531538 2.80106667,16.9608462 6.22506667,16.9608462 L7.32773333,16.9608462 C6.4624,14.1985385 5.98106667,11.2603846 5.98106667,8.20869231" id="Fill-12" fill="#000000" mask="url(#mask-6)"></path>
+                            </g>
+                            <g id="Group-17" transform="translate(23.000000, 85.000000)">
+                                <mask id="mask-8" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <g id="Clip-16"></g>
+                                <path d="M1.3724,0.532571429 C1.36706667,0.552571429 1.35506667,0.568285714 1.34973333,0.588285714 L0.527066667,3.64828571 C-0.0822666667,5.91257143 1.14973333,8.29971429 3.26306667,8.95257143 L6.11906667,9.834 C8.2324,10.4854286 10.4604,9.16685714 11.0697333,6.90114286 L11.8924,3.84114286 C11.9244,3.724 11.9204,3.60685714 11.9417333,3.48971429 C8.16706667,3.274 4.5964,2.23685714 1.3724,0.532571429" id="Fill-15" fill="#F05151" mask="url(#mask-8)"></path>
+                            </g>
+                            <g id="Group-20" transform="translate(57.000000, 86.000000)">
+                                <mask id="mask-10" fill="white">
+                                    <use xlink:href="#path-9"></use>
+                                </mask>
+                                <g id="Clip-19"></g>
+                                <path d="M11.4831,0.0835714286 C8.0265,1.63785714 4.2255,2.51785714 0.2313,2.55642857 C0.2509,2.65214286 0.2467,2.74642857 0.2733,2.84214286 L1.1371,5.90071429 C1.7755,8.16642857 4.1163,9.485 6.3353,8.83357143 L9.3327,7.95214286 C11.5531,7.29928571 12.8467,4.91214286 12.2069,2.64785714 L11.4831,0.0835714286 Z" id="Fill-18" fill="#F05151" mask="url(#mask-10)"></path>
+                            </g>
+                            <g id="Group-23" transform="translate(82.000000, 41.000000)">
+                                <mask id="mask-12" fill="white">
+                                    <use xlink:href="#path-11"></use>
+                                </mask>
+                                <g id="Clip-22"></g>
+                                <path d="M4.29226,7.73571429 C4.31746,7.72857143 4.34266,7.72714286 4.36646,7.71857143 C6.37126,7.04285714 7.46886,4.81428571 6.80526,2.76714286 C6.14166,0.722857143 3.95766,-0.397142857 1.95286,0.278571429 C1.55246,0.414285714 1.19546,0.62 0.87766,0.867142857 C2.30146,2.97428571 3.44106,5.28571429 4.29226,7.73571429" id="Fill-21" fill="#000000" mask="url(#mask-12)"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

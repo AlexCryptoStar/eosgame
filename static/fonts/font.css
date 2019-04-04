@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'DIN';
+  src:  url('DIN/DINCondensed-Bold.woff2') format('woff2'),
+        url('DIN/DINCondensed-Bold.woff') format('woff'),
+        url('DIN/DINCondensed-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: 'DINAlternate';
+  src:  url('DINAlternate/DINAlternate-Bold.woff2') format('woff2'),
+        url('DINAlternate/DINAlternate-Bold.woff') format('woff'),
+        url('DINAlternate/DINAlternate-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: bold;
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  src:  url('CircularStd/CircularStd-Book.woff2') format('woff2'),
+        url('CircularStd/CircularStd-Book.woff') format('woff'),
+        url('CircularStd/CircularStd-Book.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  src:  url('CircularStd/CircularStd-Bold.woff2') format('woff2'),
+        url('CircularStd/CircularStd-Bold.woff') format('woff'),
+        url('CircularStd/CircularStd-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: bold;
+}
+
+body {
+  font-family: 'CircularStd', 'helvetica', -apple-system, Arial, sans-serif !important;
+}
+input {
+  font-family: 'CircularStd', 'helvetica', -apple-system, Arial, sans-serif !important;
+}
